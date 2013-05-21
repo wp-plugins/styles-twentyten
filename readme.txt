@@ -1,4 +1,4 @@
-=== Styles: TwentyTen ===
+=== Styles — TwentyTen ===
 Contributors: brainstormmedia, pdclark, elusivelight
 Plugin URI: http://stylesplugin.com
 Author URI: http://brainstormmedia.com
@@ -7,13 +7,15 @@ Requires at least: 3.4
 Tested up to: 3.5.2
 Stable tag: 1.0
 
-Be creative with TwentyTen colors and fonts. Styles changes everything.
+Be creative with colors and fonts. Styles changes everything.
 
 == Description ==
 
 This plugin adds suport for the TwentyTen theme to the [Styles plugin](http://wordpress.org/extend/plugins/styles).
 
 [Try a demo in TwentyTen](http://demo.stylesplugin.com/twentyten).
+
+**About Styles**
 
 WordPress has lots of beautiful themes, but personalizing a design can be difficult and time-intensive. Styles changes that. Styles gives you creative control in one consistent interface – the WordPress theme customizer. Styles lets you make your site your own. :)
 
